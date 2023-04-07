@@ -22,7 +22,7 @@ Now, you should be familiar with the basic R syntax, plotting and statistical an
 
 
 ## References
-
+[Introduction to Data Science, Rafael A. Irizarry](http://rafalab.dfci.harvard.edu/dsbook/)
 
 
 
