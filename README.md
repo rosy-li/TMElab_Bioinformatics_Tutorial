@@ -22,12 +22,30 @@ The workload is ~6 hours/week, 4 weeks in total. But my experience is that you w
 
 
 ## Getting started with Bioinformatic analysis
-Now, you should be familiar with the basic R syntax, plotting and statistical analysis. To utilize this powerful tool for statistical analysis, please check out [this class on Coursera: Bioinformatics: Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku)
+Now, you should be familiar with the basic R syntax, plotting and statistical analysis. To utilize this powerful tool for statistical analysis, please check out [this class on Coursera: Bioinformatics: Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku).
 
-No need to go through every detail in this class. The purpose of this course is to let you get an idea of 
+No need to go through every detail in this class. The purpose of this course is to let you get an idea of what bioinformatics does and what are the technologies associated to it. The workload is ~10 hours in total. 
+
+Now, with the basic R programming techniques and the bioinformatic background, we will further strengthen our power by reviewing the statistical analysis tools and learning new ways to analyze the data. Statistical learning methods are widely used in omics data analysis. Therefore, please take this online class from Stanford to deepen your understand of statistics: [Statistical Learning by Dr. Trevor Hastie](https://www.edx.org/course/statistical-learning). And to apply statistical learning methods for real-world questions.
+
+The workload is ~6 hours/week, 8 weeks.
+
+Make sure that you are familiar with the following terms:
+
+• Omics data anlaysis
+
+• Quality control
+
+• Data normalization, transformation and cleaning
+
+• Differential expression analysis
+
+• Data visualization (make sure you knwo how to generate different plots in R including histograms, scatter plots, volcano plots, heatmaps, network plots)
+
+• Correlations, regressions, statistical tests (parametric and non-parametric tests, Student's t-test, ANOVA, Wilcoxon rank-sum test, Cox regression, SVM, KNN, Lasso regression)
 
 ## Bulk transcriptomics data analysis
-
+[The most comprehensive Next-Generation Sequencing tutorial](https://learn.gencore.bio.nyu.edu/) I found so far is from NYU Center for Genomics and Systems Biology. Please always refer to this tutorial if you have any questions. 
 
 ## RPPA data analysis
 
